@@ -1,5 +1,5 @@
 appnope==0.1.0
-bleach==1.5.0
+bleach==3.3.0
 boto3==1.5.25
 boto==2.48.0
 botocore==1.8.39
@@ -17,7 +17,7 @@ Flask==0.12.2
 future==0.16.0
 graphviz==0.8.2
 h5py==2.7.1
-html5lib==0.9999999
+html5lib==0.99999999
 idna==2.6
 inflection==0.3.1
 ipykernel==4.8.1
@@ -49,7 +49,7 @@ parso==0.1.1
 pexpect==4.3.1
 pickleshare==0.7.4
 prompt-toolkit==1.0.15
-protobuf==3.5.1
+protobuf==3.18.3
 ptyprocess==0.5.2
 pydot==1.2.4
 Pygments==2.2.0
@@ -78,5 +78,5 @@ traitlets==4.3.2
 urllib3==1.22
 wcwidth==0.1.7
 webencodings==0.5.1
-Werkzeug==0.14.1
+Werkzeug==0.15.3
 widgetsnbextension==3.1.3
